@@ -1,0 +1,21 @@
+{
+  "name": "paper-agency",
+  "homepage": "https://github.com/cesarhgd10/paper-agency",
+  "authors": [
+    "Cesar Damascena <cesardamascena10@hotmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "git://github.com/twbs/bootstrap.git#v4.0.0-beta",
+    "paper-kit": "git://github.com/creativetimofficial/paper-kitq"
+  },
+  "overrides": {
+    "paper-kit": {
+      "main": [
+        "./assets/sass/paper-kit.scss"
+      ]
+    }
+  }
+
+}

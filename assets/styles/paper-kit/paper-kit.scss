@@ -1,0 +1,55 @@
+/*!
+
+ =========================================================
+ * Paper Kit 2 - v2.0.1
+ =========================================================
+
+ * Product Page: http://www.creative-tim.com/product/paper-kit-2
+ * Copyright 2017 Creative Tim (http://www.creative-tim.com)
+ * Licensed under MIT (https://github.com/timcreative/paper-kit/blob/master/LICENSE.md)
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ */
+
+@import "components/variables";
+@import "components/mixins";
+
+@import "components/typography";
+
+// Core CSS
+@import "components/misc";
+@import "components/buttons";
+@import "components/inputs";
+@import "components/progress-bars";
+@import "components/sliders";
+@import "components/alerts";
+@import "components/labels";
+@import "components/tooltips-and-popovers";
+@import "components/sections";
+@import "components/checkbox-radio";
+@import "components/navbars";
+@import "components/images";
+@import "components/cards";
+@import "components/footers";
+
+
+// Bootstrap Switch
+@import "components/bootstrap-switch";
+
+// Fancy Stuff
+@import "components/dropdown";
+//
+// icons
+@import "components/icons";
+//
+@import "components/tabs-navs-pagination";
+@import "components/collapse";
+@import "components/carousel";
+@import "components/modal";
+//
+@import "components/responsive";
+@import "components/plugins/datetimepicker";
+@import "components/social-buttons";
+@import "components/examples";

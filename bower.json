@@ -7,15 +7,6 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "bootstrap": "git://github.com/twbs/bootstrap.git#v4.0.0-beta",
-    "paper-kit": "git://github.com/creativetimofficial/paper-kitq"
-  },
-  "overrides": {
-    "paper-kit": {
-      "main": [
-        "./assets/sass/paper-kit.scss"
-      ]
-    }
+    "bootstrap": "git://github.com/twbs/bootstrap.git#v4.0.0-beta"
   }
-
 }

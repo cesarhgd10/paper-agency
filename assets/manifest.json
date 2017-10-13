@@ -1,7 +1,14 @@
-{
+ 
+ {
   "dependencies": {
     "main.js": {
       "files": [
+        "scripts/bootstrap-datetimepciker.min.js",
+        "scripts/bootstrap-switch.min.js",
+        "scripts/moment.js",
+        "scripts/popper.js",
+        "scripts/moment.min.js",
+        "scripts/nouislider.js",
         "scripts/main.js"
       ],
       "main": true
@@ -17,11 +24,16 @@
         "scripts/customizer.js"
       ]
     },
+      "paper-kit.js": {
+      "files": [
+        "scripts/paper-kit.js"
+      ]
+    },
     "jquery.js": {
       "bower": ["jquery"]
     }
   },
   "config": {
-    "devUrl": "http://example.dev"
+    "devUrl": "http://localhost"
   }
 }
